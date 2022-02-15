@@ -1,1 +1,1 @@
-#tarea GIT
+#tarea
