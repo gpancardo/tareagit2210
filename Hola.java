@@ -1,1 +1,3 @@
-class Hola{int edad;}
+class Hola{
+	int edad;
+	}
